@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\Movie\Movie\bin\Debug\Movie.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\Movie\Movie\bin\Debug\Movie.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Movie\Movie\bin\Debug\Movie.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache
+c:\users\sonia blake\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Movie.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Movie.pdb
